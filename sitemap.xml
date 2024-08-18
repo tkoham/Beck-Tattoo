@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tkoham.github.io/Beck-Tattoo/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tkoham.github.io/Beck-Tattoo/</loc>
+</url>
+<url>
+<loc>https://tkoham.github.io/Beck-Tattoo/book-an-appointment/</loc>
+<lastmod>2024-08-18T13:41:19-04:00</lastmod>
+</url>
+<url>
+<loc>https://tkoham.github.io/Beck-Tattoo/home/</loc>
+<lastmod>2024-08-18T13:48:37-04:00</lastmod>
+</url>
+<url>
+<loc>https://tkoham.github.io/Beck-Tattoo/home/gallery/</loc>
+</url>
+<url>
+<loc>https://tkoham.github.io/Beck-Tattoo/home/get-in-touch/</loc>
+</url>
+</urlset>
