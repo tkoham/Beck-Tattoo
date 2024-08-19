@@ -46,7 +46,7 @@
    shareEl: true,
    counterEl: true,
    arrowEl: true,
-   preloaderEl: true
+   preloaderEl: false
    };if(fromURL){if(options.galleryPIDs){for(var j=0;j<items.length;j++){if(items[j].pid==index){options.index=j;break;}}}else{options.index=parseInt(index,10)-1;}}else{options.index=parseInt(index,10);}
    if(isNaN(options.index)){return;}
    if(disableAnimation){options.showAnimationDuration=0;}
