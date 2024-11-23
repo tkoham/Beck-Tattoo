@@ -9,8 +9,8 @@
             }
                       
             @font-face {
-               font-family: 'Hurricane';
-               src: url('../dynamic/fonts/_extra/hurricane/hurricane.woff2') format('woff2');
+               font-family: 'Mea Culpa';
+               src: url('../dynamic/fonts/_extra/meaculpa/meaculpa.woff2') format('woff2');
                font-display: swap;
                font-style: normal;
             }
@@ -33,9 +33,9 @@
             --anim-timing-function:  cubic-bezier(.215, .61, .355, 1);;
             --font-body:             'Andada Pro', serif;
             --font-heading:          'Andada Pro', serif;
-            --font-logo:             -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            --font-logo:             var(--font-heading);
             --font-menu:             var(--font-body);
-            --font-intro:            'Hurricane', cursive;;
+            --font-intro:            'Mea Culpa', cursive;;
             --font-size:             clamp(1.1rem, 1.1rem + (0.19999999999999996 * ((100vw - 20rem) / 70)), 1.3rem);
             --font-weight-normal:    400; 
             --font-weight-bold:      700; 
