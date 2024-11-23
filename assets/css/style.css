@@ -33,7 +33,7 @@
             --anim-timing-function:  cubic-bezier(.215, .61, .355, 1);;
             --font-body:             'Andada Pro', serif;
             --font-heading:          'Andada Pro', serif;
-            --font-logo:             var(--font-body);
+            --font-logo:             -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             --font-menu:             var(--font-body);
             --font-intro:            'Hurricane', cursive;;
             --font-size:             clamp(1.1rem, 1.1rem + (0.19999999999999996 * ((100vw - 20rem) / 70)), 1.3rem);
